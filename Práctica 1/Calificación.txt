@@ -1,0 +1,4 @@
+9.50/10
+
+En el tercer ejercicio solo se tiene en cuenta los casos de signos de puntuación
+a final de palabra, también habría que tenerlos en cuenta al principio.
